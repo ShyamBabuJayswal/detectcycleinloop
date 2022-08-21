@@ -25,4 +25,3 @@ public class loopinlinkedlist {
         }
         return false;
     }
-}
